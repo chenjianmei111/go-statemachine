@@ -14,8 +14,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"gotest.tools/assert"
 
-	"github.com/filecoin-project/go-statemachine"
-	"github.com/filecoin-project/go-statemachine/fsm"
+	"github.com/chenjianmei111/go-statemachine"
+	"github.com/chenjianmei111/go-statemachine/fsm"
 )
 
 func init() {

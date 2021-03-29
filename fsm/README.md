@@ -18,7 +18,7 @@ A well defined DSL for constructing finite state machines for use in Filecoin.
 
 ## Description
 
-This library provides a way to model a Filecoin process that operates on a specific data structure as a series of state transitions. It is used in the storage and retrieval markets in [go-fil-markets repository](https://github.com/filecoin-project/go-fil-markets) to model the lifecycle of a storage or retrieval deal. It may be used for other parts of Filecoin in the future.
+This library provides a way to model a Filecoin process that operates on a specific data structure as a series of state transitions. It is used in the storage and retrieval markets in [go-fil-markets repository](https://github.com/chenjianmei111/go-fil-markets) to model the lifecycle of a storage or retrieval deal. It may be used for other parts of Filecoin in the future.
 
 A state machine is defined in terms of
 

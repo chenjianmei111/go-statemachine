@@ -3,7 +3,7 @@ package fsm
 import (
 	"context"
 
-	"github.com/filecoin-project/go-statemachine"
+	"github.com/chenjianmei111/go-statemachine"
 	"github.com/ipfs/go-datastore"
 	cbg "github.com/whyrusleeping/cbor-gen"
 	"golang.org/x/xerrors"
